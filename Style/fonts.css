@@ -1,0 +1,50 @@
+@font-face{
+    src:url(fonts/Roboto-Black.ttf);
+    font-family: CCBlack;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Regular.ttf);
+    font-family: CCRegular;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Italic.ttf);
+    font-family: CCItalic;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Bold.ttf);
+    font-family: CCBold;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Thin.ttf);
+    font-family: CCThin;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Light.ttf);
+    font-family: CCLight;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Medium.ttf);
+    font-family: CCMedium;
+}
+
+@font-face{
+    src:url(fonts/Roboto-Condensed.ttf);
+    font-family: CCCondensed;
+}
+
+@font-face{
+    src:url(fonts/AckiPreschool.ttf);
+    font-family: CCPreschool;
+}
+
+@font-face{
+    src:url(fonts/EuphoriaScript-Regular.ttf);
+    font-family: CCStylish;
+}
+
